@@ -36,7 +36,7 @@ ESP32 GND → 220Ω resistor → LED (short leg)
 
 ## 📲 Usage
 
-1. Upload `ESP32_LED_DEV_PRO.ino` to ESP32  
+1. Upload `SOURCEBYRDZ.ino` to ESP32  
 2. Connect phone to hotspot:  
    - **SSID**: `Redzskid-ESP32`  
    - **Password**: `hacktheplanet`  
